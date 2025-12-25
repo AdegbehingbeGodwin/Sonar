@@ -1,0 +1,14 @@
+/* Custom styles for Sonar app */
+img[alt="Sonar Logo"] {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  filter: invert(1); /* Make the logo white to match the blue background */
+}
+
+/* Additional styling to ensure the logo displays properly */
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

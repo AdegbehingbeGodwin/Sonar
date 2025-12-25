@@ -1,0 +1,7 @@
+{
+  "name": "Sonar",
+  "description": "A modern, professional medical documentation platform that converts real-time patient conversations into structured clinical SOAP notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
