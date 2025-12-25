@@ -1,4 +1,5 @@
 # Sonar - AI-Powered Clinical Documentation
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e960f610-691b-4fd1-9a37-ceb0a07cfec4" />
 
 Sonar is an advanced, AI-powered clinical documentation assistant that helps healthcare professionals efficiently create and manage patient records using state-of-the-art speech recognition and natural language processing.
 
